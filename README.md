@@ -1,10 +1,49 @@
-# <div align="center">Carlos Henrique Lima</div>
+<!-- BANNER ANIMADO -->
+<div align="center">
 
-<h3 align="center">💻 Estudante de Sistemas de Informação | Desenvolvedor em formação</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=190&section=header&text=Carlos%20Henrique%20Lima&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%7C%20Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=58&descColor=C9D1D9" alt="Banner de Carlos Henrique Lima" />
 
-<p align="center">
-  Explorando tecnologias, desenvolvendo projetos e transformando conhecimento em soluções.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Transformando+conhecimento+em+solu%C3%A7%C3%B5es!" alt="Mensagens animadas" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/carlos-henrique-lima-9ab254440/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
+</a>
+<a href="https://github.com/kcarloshl">
+  <img src="https://img.shields.io/badge/GitHub-Perfil%20Acadêmico-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico" />
+</a>
+<a href="https://github.com/kcarloshlima">
+  <img src="https://img.shields.io/badge/GitHub-Perfil%20Profissional-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profissional" />
+</a>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="190" src="https://raw.githubusercontent.com/kcarloshlima/kcarloshlima/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Estatísticas do GitHub" />
+
+<img height="190" src="https://raw.githubusercontent.com/kcarloshlima/kcarloshlima/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Linguagens mais utilizadas" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=kcarloshlima&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 📈 Minha atividade no GitHub
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/6C63FF/kcarloshlima" alt="Gráfico de atividade no GitHub" />
+
+</div>
 
 ---
 
@@ -14,62 +53,92 @@ Sou estudante de **Sistemas de Informação no IFMG**, interessado em desenvolvi
 
 Tenho conhecimentos em diferentes linguagens de programação e tecnologias, e busco aprimorar minhas habilidades por meio de projetos práticos e da resolução de problemas.
 
-- 💡 Interesse em desenvolvimento de software
-- 🗄️ Estudos e práticas com bancos de dados relacionais
-- 🌐 Desenvolvimento de páginas e aplicações web
-- 🤖 Robótica e sistemas embarcados com Arduino
-- 📈 Construindo meu portfólio profissional continuamente
+- 💡 Interesse em desenvolvimento de software.
+- 🗄️ Estudos e práticas com bancos de dados relacionais.
+- 🌐 Desenvolvimento de páginas e aplicações web.
+- ⚙️ Aplicações desktop com Java Swing e .NET.
+- 🤖 Robótica e sistemas embarcados com Arduino.
+- 🔧 Controle de versão com Git e GitHub.
+- 📈 Construindo meu portfólio profissional continuamente.
 
-## 🛠️ Tecnologias e conhecimentos
-
-### Linguagens de programação
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Desenvolvimento Web
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### Robótica e Sistemas Embarcados
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-## 🚀 Projetos em destaque
-
-Os projetos serão adicionados aqui à medida que forem organizados e publicados, com seus respectivos objetivos, tecnologias utilizadas e instruções de execução.
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshlima&show_icons=true&theme=merko&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshlima&layout=compact&theme=merko&hide_border=true" />
-</p>
-
-## 📫 Contato
-
-- 💼 GitHub: [@kcarloshlima](https://github.com/kcarloshlima)
+🚀 **Meu objetivo é transformar conhecimento em prática e desenvolver soluções que contribuam para minha carreira como profissional de TI.**
 
 ---
 
-<p align="center"><i>Transformando conhecimento em soluções, um projeto de cada vez.</i> 🚀</p>
+## 🛠️ Tecnologias e ferramentas
+
+### 💻 Linguagens de programação
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js&theme=dark" alt="C, C++, C Sharp, Java e JavaScript" />
+
+</div>
+
+### ⚙️ Plataformas e frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt=".NET e Bootstrap" />
+
+</div>
+
+### 🌐 Desenvolvimento web
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript e Bootstrap" />
+
+</div>
+
+### 🗄️ Banco de dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL e PostgreSQL" />
+
+</div>
+
+### 🤖 Robótica e sistemas embarcados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
+
+</div>
+
+### 🔧 Ferramentas de desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code" />
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [Sistema-Login-Java-MySQL](https://github.com/kcarloshlima/Sistema-Login-Java-MySQL) | Tela de login desktop em Java Swing com autenticação via MySQL/JDBC |
+| [Sistema-Funcionarios-Dependentes](https://github.com/kcarloshlima/Sistema-Funcionarios-Dependentes) | Sistema de cadastro e gerenciamento de funcionários e dependentes em C++ |
+
+📌 Novos projetos serão adicionados aqui conforme forem organizados e publicados.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [Carlos Henrique Lima](https://www.linkedin.com/in/carlos-henrique-lima-9ab254440/)
+- 🐙 GitHub: [@kcarloshlima](https://github.com/kcarloshlima)
+
+---
+
+<div align="center">
+
+### 💜 Transformando conhecimento em soluções, um projeto de cada vez.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B33,100:0D1117&height=110&section=footer" alt="Rodapé decorativo" />
+
+</div>
